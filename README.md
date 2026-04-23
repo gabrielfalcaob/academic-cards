@@ -1,3 +1,3 @@
-# academic-hub
+# academic-cards
 
-Projeto de desenvolvimento Web [Hub Acadêmico - EPC]
+Projeto de desenvolvimento Web [Cards - EPC]
